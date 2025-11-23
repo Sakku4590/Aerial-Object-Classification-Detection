@@ -4,4 +4,7 @@ torchvision
 torchaudio
 Pillow
 numpy
+opencv-python-headless
 scikit-learn
+matplotlib
+ultralytics
