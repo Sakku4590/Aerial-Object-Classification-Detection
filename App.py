@@ -36,7 +36,7 @@ class_names = ["bird", "drone"]
 # --------------------------------------------------
 # 3. Load YOLOv8 Model (Detection)
 # --------------------------------------------------
-yolo = YOLO("C:/Users/HP/runs/detect/train3/weights/best.pt")
+yolo = YOLO("best_yolo_model.pt")
 
 # --------------------------------------------------
 # 4. Prediction Functions
